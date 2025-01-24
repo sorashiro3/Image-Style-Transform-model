@@ -6,7 +6,7 @@ This is yet another Project I made, this time to learn more about Image processi
 
 # Overview
 
-This project implements 'Image Style Transfer' using deep learning techniques to combine the content of one image with the artistic style of another. 
+This project implements **'Image Style Transfer'** using deep learning techniques to combine the content of one image with the artistic style of another. 
 
 The model uses a pre-trained VGG19 model to apply artistic styles of one image to the contents of another image, the Model focuses on processing visually stunning blend of features for the Output image 
 
@@ -14,5 +14,10 @@ I have made sure the code can handle any image given, The images can be used fro
 
 Feel free to Use, Update the code or to make any contributions for the project
 
-# Outputs
+# Output
+
+***Content | Style | Result***
+<p align="center">
+  <img src="Compare.png" />
+  </p>
 
